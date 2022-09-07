@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-07T11:16:12 IST" name="Suite" finished-at="2022-09-07T11:16:50 IST" duration-ms="37663">
+  <suite started-at="2022-09-07T13:39:05 IST" name="Suite" finished-at="2022-09-07T13:39:27 IST" duration-ms="21978">
     <groups>
     </groups>
-    <test started-at="2022-09-07T11:16:12 IST" name="Test" finished-at="2022-09-07T11:16:50 IST" duration-ms="37663">
+    <test started-at="2022-09-07T13:39:05 IST" name="Test" finished-at="2022-09-07T13:39:27 IST" duration-ms="21978">
       <class name="RegistrationModule.RegistrationForm">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:RegistrationModule.RegistrationForm@3cdf2c61]" started-at="2022-09-07T11:16:12 IST" name="initializeDriver" finished-at="2022-09-07T11:16:30 IST" duration-ms="17497" status="PASS">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:RegistrationModule.RegistrationForm@3cdf2c61]" started-at="2022-09-07T13:39:05 IST" name="initializeDriver" finished-at="2022-09-07T13:39:10 IST" duration-ms="5049" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[]]>
+                <![CDATA[local]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method signature="verifyRgesitrationForm()[pri:0, instance:RegistrationModule.RegistrationForm@3cdf2c61]" started-at="2022-09-07T11:16:30 IST" name="verifyRgesitrationForm" finished-at="2022-09-07T11:16:40 IST" duration-ms="9970" status="PASS">
+        <test-method signature="verifyRgesitrationForm()[pri:0, instance:RegistrationModule.RegistrationForm@3cdf2c61]" started-at="2022-09-07T13:39:10 IST" name="verifyRgesitrationForm" finished-at="2022-09-07T13:39:20 IST" duration-ms="9687" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRgesitrationForm -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:RegistrationModule.RegistrationForm@3cdf2c61]" started-at="2022-09-07T11:16:40 IST" name="closeDriver" finished-at="2022-09-07T11:16:40 IST" duration-ms="81" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:RegistrationModule.RegistrationForm@3cdf2c61]" started-at="2022-09-07T13:39:20 IST" name="closeDriver" finished-at="2022-09-07T13:39:20 IST" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
       </class> <!-- RegistrationModule.RegistrationForm -->
       <class name="RegistrationModule.RegistrationUI">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:RegistrationModule.RegistrationUI@4b40f651]" started-at="2022-09-07T11:16:40 IST" name="initializeDriver" finished-at="2022-09-07T11:16:44 IST" duration-ms="4424" status="PASS">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:RegistrationModule.RegistrationUI@4b40f651]" started-at="2022-09-07T13:39:20 IST" name="initializeDriver" finished-at="2022-09-07T13:39:21 IST" duration-ms="1416" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[]]>
+                <![CDATA[local]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method signature="verifyRegistrationUI()[pri:0, instance:RegistrationModule.RegistrationUI@4b40f651]" started-at="2022-09-07T11:16:44 IST" name="verifyRegistrationUI" finished-at="2022-09-07T11:16:50 IST" duration-ms="5561" status="PASS">
+        <test-method signature="verifyRegistrationUI()[pri:0, instance:RegistrationModule.RegistrationUI@4b40f651]" started-at="2022-09-07T13:39:21 IST" name="verifyRegistrationUI" finished-at="2022-09-07T13:39:27 IST" duration-ms="5597" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRegistrationUI -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:RegistrationModule.RegistrationUI@4b40f651]" started-at="2022-09-07T11:16:50 IST" name="closeDriver" finished-at="2022-09-07T11:16:50 IST" duration-ms="81" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:RegistrationModule.RegistrationUI@4b40f651]" started-at="2022-09-07T13:39:27 IST" name="closeDriver" finished-at="2022-09-07T13:39:27 IST" duration-ms="85" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
