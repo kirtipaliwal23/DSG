@@ -1,0 +1,7 @@
+HelperPages\Log4j.class
+PageObjects\RegistrationPage.class
+Resources\ExtentReportNG.class
+HelperPages\CommonTestData.class
+HelperPages\CommonUtilities.class
+HelperPages\WebDriverHelper.class
+HelperPages\TestDataHelper.class

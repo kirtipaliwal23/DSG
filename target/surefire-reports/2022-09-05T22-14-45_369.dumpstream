@@ -1,0 +1,5 @@
+# Created at 2022-09-05T22:14:46.215
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Data\Data\eclipseWorkspace\DockerWithSeleniumGrid\DSG\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

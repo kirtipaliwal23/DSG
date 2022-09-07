@@ -1,0 +1,5 @@
+TestComponents\Base.class
+TestComponents\Listeners.class
+TestComponents\RetryAnalyzer.class
+RegistrationModule\RegistrationForm.class
+RegistrationModule\RegistrationUI.class
